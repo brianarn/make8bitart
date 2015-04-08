@@ -69,6 +69,10 @@ canvas {
   overflow: hidden;
 }
 
+.draggy.ui-moving {
+  background: #ffaaff;
+}
+
 img.ui-dragger {
   width: 30px;
 }
